@@ -1,5 +1,5 @@
 # payment_service
-This repo is a payment service website for the BIH hackathon
+This repo houses a payment service website for the BIH hackathon
 
 # How to run
 1. Clone the project
